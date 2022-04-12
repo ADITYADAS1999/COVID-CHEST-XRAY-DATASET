@@ -9,5 +9,6 @@
 
 
 
+<p><a href="https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/">vgg16 vgg19 resnet50</a></p>
 
  DATASET LINK  :  https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
