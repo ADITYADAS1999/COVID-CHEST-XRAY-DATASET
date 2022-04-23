@@ -104,7 +104,7 @@ More information can be found <a href="https://www.mathworks.com/help/deeplearni
 </ul>
 
 # Authors
-## Kaushik Jadhav
+## Aditya Das
 <ul>
 <li>Github:</li>
 <li>Medium:</li>
