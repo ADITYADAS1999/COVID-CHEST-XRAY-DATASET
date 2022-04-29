@@ -139,3 +139,8 @@ More information can be found <a href="https://www.mathworks.com/help/deeplearni
 <li>LinkedIn:</li>
 <li>Portfolio:/li>
 </ul>
+<img src="https://user-images.githubusercontent.com/58718316/165882444-5106e93e-1ddd-4d78-a50c-821c5832774b.jpg">
+<img src="https://user-images.githubusercontent.com/58718316/165882446-f53d8481-5dbd-4a0e-889e-bf795d8f3391.jpg">
+<img src="ttps://user-images.githubusercontent.com/58718316/165882447-1a4bd5f0-a546-4e16-9d73-aa98ee9ff290.jpg">
+<img src="https://user-images.githubusercontent.com/58718316/165882448-cf738686-fabf-4e9c-82c8-72329de3efa6.jpeg">
+<img src="https://user-images.githubusercontent.com/58718316/165882451-727edf35-febe-4a67-bf99-c61c760fc319.jpg">
